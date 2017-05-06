@@ -1,0 +1,5 @@
+C:\Users\appveyor\AppData\Local\Temp\DotNetStandard1\DotNetStandard1\bin\Debug\DotNetStandard1.dll
+C:\Users\appveyor\AppData\Local\Temp\DotNetStandard1\DotNetStandard1\bin\Debug\DotNetStandard1.pdb
+C:\Users\appveyor\AppData\Local\Temp\DotNetStandard1\DotNetStandard1\obj\Debug\DotNetStandard1.csprojResolveAssemblyReference.cache
+C:\Users\appveyor\AppData\Local\Temp\DotNetStandard1\DotNetStandard1\obj\Debug\DotNetStandard1.dll
+C:\Users\appveyor\AppData\Local\Temp\DotNetStandard1\DotNetStandard1\obj\Debug\DotNetStandard1.pdb

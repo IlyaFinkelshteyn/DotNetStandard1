@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+    <id>DotNetStandardTest1</id>
+    <version>1.0.0</version>
+    <title>DotNetStandardTest1</title>
+    <authors>TEST_NAME</authors>
+    <owners>TEST_NAME</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Test how AppVeyor do nuget package with .net standard</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>No rights reserved.</copyright>
+    <tags>test tag</tags>
+    </metadata>
+</package>
